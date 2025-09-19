@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2971392511014\\Downloads\\Vers\u00E3o_SegundoSemestre\\Vers\u00E3o_SegundoSemestre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{299FA1DF-C099-47F7-9DD8-6AD44ECC5939}|Vers\u00E3o_SegundoSemestre.csproj|c:\\users\\2971392511014\\downloads\\vers\u00E3o_segundosemestre\\vers\u00E3o_segundosemestre\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{299FA1DF-C099-47F7-9DD8-6AD44ECC5939}|Vers\u00E3o_SegundoSemestre.csproj|solutionrelative:views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\2971392511014\\Downloads\\Vers\u00E3o_SegundoSemestre\\Vers\u00E3o_SegundoSemestre\\Views\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Home.cshtml",
+              "ToolTip": "C:\\Users\\2971392511014\\Downloads\\Vers\u00E3o_SegundoSemestre\\Vers\u00E3o_SegundoSemestre\\Views\\Home\\Home.cshtml",
+              "RelativeToolTip": "Views\\Home\\Home.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAIgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T11:25:34.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
